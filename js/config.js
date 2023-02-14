@@ -8,12 +8,12 @@ var FeeReciever = "0x7e9Ef61a3d49A07a7815E5B338Ae3befCEdaE851";
 
 
 var BinanceFee=0.005;
-var PolygonFee=1;
-var FantomFee=1;
+var PolygonFee=1.5;
+var FantomFee=3;
 var RopstenFee=0.00001;
-var HuobiFee=0.1;
-var AvalancheFee=0.1;
-var EthereumFee=0.001;
-var CronosFee=3;
-var PhoenixFee=0.1;
-var CandleFee=1;
+var HuobiFee=0.3;
+var AvalancheFee=0.3;
+var EthereumFee=0.003;
+var CronosFee=5;
+var PhoenixFee=0.5;
+var CandleFee=3;
